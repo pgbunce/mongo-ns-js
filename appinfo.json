@@ -1,0 +1,76 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "pgb@bunce-family.net",
+    "longName": "MongoNightScout-Javascript App",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/up45.png",
+                "name": "IMAGES_UP45_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/upup.png",
+                "name": "IMAGES_UPUP_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/down45.png",
+                "name": "IMAGES_DOWN45_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/downdown.png",
+                "name": "IMAGES_DOWNDOWN_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/flat.png",
+                "name": "IMAGES_FLAT_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/up.png",
+                "name": "IMAGES_UP_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/down.png",
+                "name": "IMAGES_DOWN_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "MongoNS-JS",
+    "uuid": "7131f189-0cc8-4b48-b104-596a055b97f4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
